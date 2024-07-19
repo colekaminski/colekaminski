@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @colekaminski
+- 👋 Hi, I’m @colekaminski (Cole Kaminski).
 - 👀 I’m interested in developing software, gaming, sports, and tech.
 - 🌱 I’m currently learning C++, JavaScript, Python, and HTML.
 - 💞️ I’m looking to collaborate on anything!
